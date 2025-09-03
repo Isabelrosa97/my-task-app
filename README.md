@@ -2,6 +2,8 @@ ISABEL RODRIGUEZ
 
 http://localhost:3000/todos
 
+https://isabelrosa97.github.io/my-task-app/
+
 PROJECT DESCRIPTION 
 
 For Project3 I created a task manager app that allows users to write down different tasks, as well as, deleting tasks, and marking tasks as complete or incomplete. The task app has two pages consisting of the todo page and the contact page. In the contact page users are able to write down their information and leave any comments or concerns.
