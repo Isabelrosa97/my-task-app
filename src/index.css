@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Righteous&display=swap");
+body {
+  margin: 0;
+  font-family: "Righteous", sans-serif !important;
+}
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.navbar{
+  background-color: rgb(168, 137, 241);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
