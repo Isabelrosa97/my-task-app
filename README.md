@@ -1,8 +1,5 @@
 ISABEL RODRIGUEZ
 
-http://localhost:3000/todos
-
-https://isabelrosa97.github.io/my-task-app/
 
 PROJECT DESCRIPTION 
 
